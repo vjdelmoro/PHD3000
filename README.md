@@ -1,2 +1,2 @@
 # PHD3000
-For Hackathon
+ Hacathon source code for Pandemic Health Drone 3000
